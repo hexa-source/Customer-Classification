@@ -1,0 +1,11 @@
+fastapi[standard]
+joblib
+matplotlib
+seaborn
+numpy
+pandas
+plotly
+scikit-learn
+streamlit
+shap
+lime
